@@ -3,4 +3,8 @@ proyecto
 
 **Hola**
 -----------|---------
-[Html](/LMAR/proyect)|ejercicio 1 etiqueta de parrafo y parrafo
+# prueba para llmm con archivo readme.md
+
+**Hola**
+-----------|---------
+[Html](/LMAR/ejercicio1.html)|ejercicio 1 etiqueta de parrafo y parrafo
