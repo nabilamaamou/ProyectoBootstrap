@@ -6,4 +6,4 @@ proyecto
 # prueba para llmm con archivo readme.md
 
 
-[Html](index.html)|proyecto
+[Html](proyect/index.html)|proyecto
